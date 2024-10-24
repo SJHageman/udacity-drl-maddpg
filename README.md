@@ -15,7 +15,7 @@ The task is episodic, and in order to solve the environment, your agents must ge
 The environment is considered solved, when the average (over 100 episodes) of those **scores** is at least +0.5.
 
 ## Environment setup
-Some steps are required to set up the environment.
+Some steps are required to set up the environment. This is what was used to setup the environment on my Windows 10 computer.
 
 1. Clone this repository and the [DRL nanodegree repo](https://github.com/udacity/deep-reinforcement-learning)
 2. Download the Unity environment from [here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P3/Tennis/Tennis_Windows_x86_64.zip) for Windows x86-64.
